@@ -1,1 +1,1 @@
-# 02-dynamic-website
+# Treehouse "Simple dynamic website in Node.js" tutorial
